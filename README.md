@@ -1,6 +1,27 @@
-# Tako Georgian Advertisement Generator
+# Georgian Corner (ქართული კუთხე)
 
-Generate high-quality Georgian (ქართული) advertisements in a spreadsheet-style interface powered by OpenAI.
+**Georgian Corner** is a specialized desktop application designed to generate high-quality Georgian (ქართული) advertisements using AI technology. Built specifically for Georgian businesses, marketers, and content creators who need professional, culturally-appropriate advertising content in the Georgian language.
+
+## What It Does
+
+This application transforms your product information into compelling Georgian advertisements through an intuitive spreadsheet-style interface. Simply input your product names and descriptions, select your desired tone, and let AI generate professional marketing copy that resonates with Georgian-speaking audiences.
+
+### Key Capabilities
+
+* **AI-Powered Georgian Content**: Generates authentic, grammatically correct Georgian advertisements using OpenAI's GPT models
+* **Cultural Sensitivity**: Designed specifically for Georgian market nuances and language patterns
+* **Multiple Advertising Tones**: Choose from professional, friendly, urgent, luxury, or casual tones to match your brand voice
+* **Batch Processing**: Generate multiple advertisements simultaneously with intelligent rate limiting
+* **CSV Integration**: Import existing product data and export generated content for easy integration with your workflow
+* **Privacy-First**: Your OpenAI API key stays on your device - no data is stored remotely
+
+## Who It's Created For
+
+* **Georgian E-commerce Businesses**: Online retailers selling to Georgian-speaking customers
+* **Local Georgian Businesses**: Restaurants, shops, and services needing professional marketing materials
+* **Georgian Marketing Agencies**: Content creators and marketers serving Georgian clients
+* **Georgian Freelancers**: Copywriters and marketers working with Georgian brands
+* **International Companies**: Businesses expanding into the Georgian market who need culturally appropriate content
 
 ## Features
 
